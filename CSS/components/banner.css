@@ -1,0 +1,14 @@
+.banner {
+  /* 1. Set a background image */
+  background-image: url(../../images/black-star-sky.jpg);   
+  /* on met les "../" pour remonter d'un étage dans les fichier. Donc une fois pour revenir dans "components" et une deuxième fois pour "CSS"
+  /* 2. Make the background image cover the banner div */
+	background-size: cover;     
+  padding: 212px 0px;
+
+}
+
+
+
+
+

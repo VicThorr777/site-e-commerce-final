@@ -1,0 +1,10 @@
+a {
+  color: black;
+  font-family: serif;
+  text-decoration: none;
+  transition: color 0.5s ease;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
